@@ -1,0 +1,1 @@
+b'[{"Containers":-1,"Created":1630084785,"Id":"sha256:14119a10abf4669e8cdbdff324a9f9605d99697215a0d21c360fe8dfa8471bab","Labels":null,"ParentId":"","RepoDigests":["alpine@sha256:e1c082e3d3c45cccac829840a25941e679c25d438cc8412c2fa221cf1a824e6a"],"RepoTags":["alpine:latest"],"SharedSize":-1,"Size":5595292,"VirtualSize":5595292}]\n'
